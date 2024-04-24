@@ -1,5 +1,5 @@
 #!/bin/sh
-# adding one comment
+# adding one comment, another change
 #
 for f in */*.txt
  do
